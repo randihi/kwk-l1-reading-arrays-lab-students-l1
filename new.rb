@@ -7,8 +7,8 @@ ANIMALS = [
   "Horse"
 ]
 
-def first_second_and_third_students
-  STUDENT_NAMES[0..2]
+def animals_print
+  ANIMALS[0..2]
 end
 
-puts first_second_and_third_students
+puts animals_print
