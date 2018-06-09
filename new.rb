@@ -1,5 +1,5 @@
-STUDENT_NAMES = [
-  "Adele",
+ANIMALS = [
+  "Dog",
   "Beyoncé",
   "Cardi B",
   "Lady Gaga",
