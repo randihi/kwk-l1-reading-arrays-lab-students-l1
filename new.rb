@@ -8,7 +8,7 @@ ANIMALS = [
 ]
 
 def animals_print
-  ANIMALS[1..2]
+  ANIMALS[1..3]
 end
 
 puts animals_print
